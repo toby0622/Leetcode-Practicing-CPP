@@ -1,5 +1,5 @@
-# Leetcode-Practicing
+# Leetcode-Practicing-CPP
 
 Practicing Leetcode.
 
-Mostly using c++ & python as the answering language.
+Using CPP as the answering language.
